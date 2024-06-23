@@ -5,3 +5,8 @@ build
 build/*
 
 yarn-error.log
+
+# Custom
+.gitignore
+.prettierignore
+Steps.md
